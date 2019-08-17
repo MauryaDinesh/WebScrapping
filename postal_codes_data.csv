@@ -1,0 +1,287 @@
+,Postcode,Borough,Neighbourhood
+0,M3A,North York,Parkwoods
+1,M4A,North York,Victoria Village
+2,M5A,Downtown Toronto,Harbourfront
+3,M5A,Downtown Toronto,Regent Park
+4,M6A,North York,Lawrence Heights
+5,M6A,North York,Lawrence Manor
+6,M7A,Queen's Park,Not assigned
+7,M8A,Not assigned,Not assigned
+8,M9A,Etobicoke,Islington Avenue
+9,M1B,Scarborough,Rouge
+10,M1B,Scarborough,Malvern
+11,M2B,Not assigned,Not assigned
+12,M3B,North York,Don Mills North
+13,M4B,East York,Woodbine Gardens
+14,M4B,East York,Parkview Hill
+15,M5B,Downtown Toronto,Ryerson
+16,M5B,Downtown Toronto,Garden District
+17,M6B,North York,Glencairn
+18,M7B,Not assigned,Not assigned
+19,M8B,Not assigned,Not assigned
+20,M9B,Etobicoke,Cloverdale
+21,M9B,Etobicoke,Islington
+22,M9B,Etobicoke,Martin Grove
+23,M9B,Etobicoke,Princess Gardens
+24,M9B,Etobicoke,West Deane Park
+25,M1C,Scarborough,Highland Creek
+26,M1C,Scarborough,Rouge Hill
+27,M1C,Scarborough,Port Union
+28,M2C,Not assigned,Not assigned
+29,M3C,North York,Flemingdon Park
+30,M3C,North York,Don Mills South
+31,M4C,East York,Woodbine Heights
+32,M5C,Downtown Toronto,St. James Town
+33,M6C,York,Humewood-Cedarvale
+34,M7C,Not assigned,Not assigned
+35,M8C,Not assigned,Not assigned
+36,M9C,Etobicoke,Bloordale Gardens
+37,M9C,Etobicoke,Eringate
+38,M9C,Etobicoke,Markland Wood
+39,M9C,Etobicoke,Old Burnhamthorpe
+40,M1E,Scarborough,Guildwood
+41,M1E,Scarborough,Morningside
+42,M1E,Scarborough,West Hill
+43,M2E,Not assigned,Not assigned
+44,M3E,Not assigned,Not assigned
+45,M4E,East Toronto,The Beaches
+46,M5E,Downtown Toronto,Berczy Park
+47,M6E,York,Caledonia-Fairbanks
+48,M7E,Not assigned,Not assigned
+49,M8E,Not assigned,Not assigned
+50,M9E,Not assigned,Not assigned
+51,M1G,Scarborough,Woburn
+52,M2G,Not assigned,Not assigned
+53,M3G,Not assigned,Not assigned
+54,M4G,East York,Leaside
+55,M5G,Downtown Toronto,Central Bay Street
+56,M6G,Downtown Toronto,Christie
+57,M7G,Not assigned,Not assigned
+58,M8G,Not assigned,Not assigned
+59,M9G,Not assigned,Not assigned
+60,M1H,Scarborough,Cedarbrae
+61,M2H,North York,Hillcrest Village
+62,M3H,North York,Bathurst Manor
+63,M3H,North York,Downsview North
+64,M3H,North York,Wilson Heights
+65,M4H,East York,Thorncliffe Park
+66,M5H,Downtown Toronto,Adelaide
+67,M5H,Downtown Toronto,King
+68,M5H,Downtown Toronto,Richmond
+69,M6H,West Toronto,Dovercourt Village
+70,M6H,West Toronto,Dufferin
+71,M7H,Not assigned,Not assigned
+72,M8H,Not assigned,Not assigned
+73,M9H,Not assigned,Not assigned
+74,M1J,Scarborough,Scarborough Village
+75,M2J,North York,Fairview
+76,M2J,North York,Henry Farm
+77,M2J,North York,Oriole
+78,M3J,North York,Northwood Park
+79,M3J,North York,York University
+80,M4J,East York,East Toronto
+81,M5J,Downtown Toronto,Harbourfront East
+82,M5J,Downtown Toronto,Toronto Islands
+83,M5J,Downtown Toronto,Union Station
+84,M6J,West Toronto,Little Portugal
+85,M6J,West Toronto,Trinity
+86,M7J,Not assigned,Not assigned
+87,M8J,Not assigned,Not assigned
+88,M9J,Not assigned,Not assigned
+89,M1K,Scarborough,East Birchmount Park
+90,M1K,Scarborough,Ionview
+91,M1K,Scarborough,Kennedy Park
+92,M2K,North York,Bayview Village
+93,M3K,North York,CFB Toronto
+94,M3K,North York,Downsview East
+95,M4K,East Toronto,The Danforth West
+96,M4K,East Toronto,Riverdale
+97,M5K,Downtown Toronto,Design Exchange
+98,M5K,Downtown Toronto,Toronto Dominion Centre
+99,M6K,West Toronto,Brockton
+100,M6K,West Toronto,Exhibition Place
+101,M6K,West Toronto,Parkdale Village
+102,M7K,Not assigned,Not assigned
+103,M8K,Not assigned,Not assigned
+104,M9K,Not assigned,Not assigned
+105,M1L,Scarborough,Clairlea
+106,M1L,Scarborough,Golden Mile
+107,M1L,Scarborough,Oakridge
+108,M2L,North York,Silver Hills
+109,M2L,North York,York Mills
+110,M3L,North York,Downsview West
+111,M4L,East Toronto,The Beaches West
+112,M4L,East Toronto,India Bazaar
+113,M5L,Downtown Toronto,Commerce Court
+114,M5L,Downtown Toronto,Victoria Hotel
+115,M6L,North York,Downsview
+116,M6L,North York,North Park
+117,M6L,North York,Upwood Park
+118,M7L,Not assigned,Not assigned
+119,M8L,Not assigned,Not assigned
+120,M9L,North York,Humber Summit
+121,M1M,Scarborough,Cliffcrest
+122,M1M,Scarborough,Cliffside
+123,M1M,Scarborough,Scarborough Village West
+124,M2M,North York,Newtonbrook
+125,M2M,North York,Willowdale
+126,M3M,North York,Downsview Central
+127,M4M,East Toronto,Studio District
+128,M5M,North York,Bedford Park
+129,M5M,North York,Lawrence Manor East
+130,M6M,York,Del Ray
+131,M6M,York,Keelesdale
+132,M6M,York,Mount Dennis
+133,M6M,York,Silverthorn
+134,M7M,Not assigned,Not assigned
+135,M8M,Not assigned,Not assigned
+136,M9M,North York,Emery
+137,M9M,North York,Humberlea
+138,M1N,Scarborough,Birch Cliff
+139,M1N,Scarborough,Cliffside West
+140,M2N,North York,Willowdale South
+141,M3N,North York,Downsview Northwest
+142,M4N,Central Toronto,Lawrence Park
+143,M5N,Central Toronto,Roselawn
+144,M6N,York,The Junction North
+145,M6N,York,Runnymede
+146,M7N,Not assigned,Not assigned
+147,M8N,Not assigned,Not assigned
+148,M9N,York,Weston
+149,M1P,Scarborough,Dorset Park
+150,M1P,Scarborough,Scarborough Town Centre
+151,M1P,Scarborough,Wexford Heights
+152,M2P,North York,York Mills West
+153,M3P,Not assigned,Not assigned
+154,M4P,Central Toronto,Davisville North
+155,M5P,Central Toronto,Forest Hill North
+156,M5P,Central Toronto,Forest Hill West
+157,M6P,West Toronto,High Park
+158,M6P,West Toronto,The Junction South
+159,M7P,Not assigned,Not assigned
+160,M8P,Not assigned,Not assigned
+161,M9P,Etobicoke,Westmount
+162,M1R,Scarborough,Maryvale
+163,M1R,Scarborough,Wexford
+164,M2R,North York,Willowdale West
+165,M3R,Not assigned,Not assigned
+166,M4R,Central Toronto,North Toronto West
+167,M5R,Central Toronto,The Annex
+168,M5R,Central Toronto,North Midtown
+169,M5R,Central Toronto,Yorkville
+170,M6R,West Toronto,Parkdale
+171,M6R,West Toronto,Roncesvalles
+172,M7R,Mississauga,Canada Post Gateway Processing Centre
+173,M8R,Not assigned,Not assigned
+174,M9R,Etobicoke,Kingsview Village
+175,M9R,Etobicoke,Martin Grove Gardens
+176,M9R,Etobicoke,Richview Gardens
+177,M9R,Etobicoke,St. Phillips
+178,M1S,Scarborough,Agincourt
+179,M2S,Not assigned,Not assigned
+180,M3S,Not assigned,Not assigned
+181,M4S,Central Toronto,Davisville
+182,M5S,Downtown Toronto,Harbord
+183,M5S,Downtown Toronto,University of Toronto
+184,M6S,West Toronto,Runnymede
+185,M6S,West Toronto,Swansea
+186,M7S,Not assigned,Not assigned
+187,M8S,Not assigned,Not assigned
+188,M9S,Not assigned,Not assigned
+189,M1T,Scarborough,Clarks Corners
+190,M1T,Scarborough,Sullivan
+191,M1T,Scarborough,Tam O'Shanter
+192,M2T,Not assigned,Not assigned
+193,M3T,Not assigned,Not assigned
+194,M4T,Central Toronto,Moore Park
+195,M4T,Central Toronto,Summerhill East
+196,M5T,Downtown Toronto,Chinatown
+197,M5T,Downtown Toronto,Grange Park
+198,M5T,Downtown Toronto,Kensington Market
+199,M6T,Not assigned,Not assigned
+200,M7T,Not assigned,Not assigned
+201,M8T,Not assigned,Not assigned
+202,M9T,Not assigned,Not assigned
+203,M1V,Scarborough,Agincourt North
+204,M1V,Scarborough,L'Amoreaux East
+205,M1V,Scarborough,Milliken
+206,M1V,Scarborough,Steeles East
+207,M2V,Not assigned,Not assigned
+208,M3V,Not assigned,Not assigned
+209,M4V,Central Toronto,Deer Park
+210,M4V,Central Toronto,Forest Hill SE
+211,M4V,Central Toronto,Rathnelly
+212,M4V,Central Toronto,South Hill
+213,M4V,Central Toronto,Summerhill West
+214,M5V,Downtown Toronto,CN Tower
+215,M5V,Downtown Toronto,Bathurst Quay
+216,M5V,Downtown Toronto,Island airport
+217,M5V,Downtown Toronto,Harbourfront West
+218,M5V,Downtown Toronto,King and Spadina
+219,M5V,Downtown Toronto,Railway Lands
+220,M5V,Downtown Toronto,South Niagara
+221,M6V,Not assigned,Not assigned
+222,M7V,Not assigned,Not assigned
+223,M8V,Etobicoke,Humber Bay Shores
+224,M8V,Etobicoke,Mimico South
+225,M8V,Etobicoke,New Toronto
+226,M9V,Etobicoke,Albion Gardens
+227,M9V,Etobicoke,Beaumond Heights
+228,M9V,Etobicoke,Humbergate
+229,M9V,Etobicoke,Jamestown
+230,M9V,Etobicoke,Mount Olive
+231,M9V,Etobicoke,Silverstone
+232,M9V,Etobicoke,South Steeles
+233,M9V,Etobicoke,Thistletown
+234,M1W,Scarborough,L'Amoreaux West
+235,M2W,Not assigned,Not assigned
+236,M3W,Not assigned,Not assigned
+237,M4W,Downtown Toronto,Rosedale
+238,M5W,Downtown Toronto,Stn A PO Boxes 25 The Esplanade
+239,M6W,Not assigned,Not assigned
+240,M7W,Not assigned,Not assigned
+241,M8W,Etobicoke,Alderwood
+242,M8W,Etobicoke,Long Branch
+243,M9W,Etobicoke,Northwest
+244,M1X,Scarborough,Upper Rouge
+245,M2X,Not assigned,Not assigned
+246,M3X,Not assigned,Not assigned
+247,M4X,Downtown Toronto,Cabbagetown
+248,M4X,Downtown Toronto,St. James Town
+249,M5X,Downtown Toronto,First Canadian Place
+250,M5X,Downtown Toronto,Underground city
+251,M6X,Not assigned,Not assigned
+252,M7X,Not assigned,Not assigned
+253,M8X,Etobicoke,The Kingsway
+254,M8X,Etobicoke,Montgomery Road
+255,M8X,Etobicoke,Old Mill North
+256,M9X,Not assigned,Not assigned
+257,M1Y,Not assigned,Not assigned
+258,M2Y,Not assigned,Not assigned
+259,M3Y,Not assigned,Not assigned
+260,M4Y,Downtown Toronto,Church and Wellesley
+261,M5Y,Not assigned,Not assigned
+262,M6Y,Not assigned,Not assigned
+263,M7Y,East Toronto,Business Reply Mail Processing Centre 969 Eastern
+264,M8Y,Etobicoke,Humber Bay
+265,M8Y,Etobicoke,King's Mill Park
+266,M8Y,Etobicoke,Kingsway Park South East
+267,M8Y,Etobicoke,Mimico NE
+268,M8Y,Etobicoke,Old Mill South
+269,M8Y,Etobicoke,The Queensway East
+270,M8Y,Etobicoke,Royal York South East
+271,M8Y,Etobicoke,Sunnylea
+272,M9Y,Not assigned,Not assigned
+273,M1Z,Not assigned,Not assigned
+274,M2Z,Not assigned,Not assigned
+275,M3Z,Not assigned,Not assigned
+276,M4Z,Not assigned,Not assigned
+277,M5Z,Not assigned,Not assigned
+278,M6Z,Not assigned,Not assigned
+279,M7Z,Not assigned,Not assigned
+280,M8Z,Etobicoke,Kingsway Park South West
+281,M8Z,Etobicoke,Mimico NW
+282,M8Z,Etobicoke,The Queensway West
+283,M8Z,Etobicoke,Royal York South West
+284,M8Z,Etobicoke,South of Bloor
+285,M9Z,Not assigned,Not assigned
