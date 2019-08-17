@@ -1,2 +1,2 @@
 # WebScrapping
-Learning web-scrapping
+This project is creatdd for learning the basics of web scraping
